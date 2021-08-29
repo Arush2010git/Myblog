@@ -6,8 +6,31 @@
     }
 body{
     text-align:center;
+    background-color:deepskyblue
 }
 p{
     font-size:25px; 
 } 
 
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    color:black;   
+}
+.link{
+     float:left;
+    padding-top: 5px;
+    padding-bottom:5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size:17px;
+}
+.link:hover{
+    background-color:blueviolet;
+    font-size:23px;
+    font-family: Ubuntu;
+}
