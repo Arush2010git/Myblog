@@ -37,3 +37,6 @@ p{
 sec2{
     background-color: blueviolet;
 }
+#vids:hover{
+   transform: scale(0.9);
+}
